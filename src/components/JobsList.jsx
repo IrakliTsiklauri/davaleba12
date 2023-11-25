@@ -1,5 +1,6 @@
 import { Component } from "react";
 import JobItem from "./JobItem";
+import "./styles.css";
 
 class JobsList extends Component {
   state = {
